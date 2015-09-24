@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shijuan title="sTw测试样题">
+<list class="t1" title="单项选择题" danfen="2" shuoming="本大题共5个小题，每小题2分，共10分。每小题只有一个正确答案，请将正确答案前的字母填入答题卡中。多选、错选均不得分">
+  <t class="t1">
+    <tigan>3+5= ?（）。 </tigan>
+    <sl>4	</sl>
+    <sl isok="1">8</sl>
+    <sl>6</sl>
+    <sl>7</sl>
+  </t>
+  <t class="t1">
+    <tigan>英语字母表中第一个字母是（）。</tigan>
+    <sl>B</sl>
+    <sl isok="1">A</sl>
+    <sl>C</sl>
+    <sl>Z</sl>
+  </t>
+  <t class="t1">
+    <tigan>2008年夏季奥运会举办国是</tigan>
+    <sl>澳大利亚 </sl>
+    <sl isok="1">中国</sl>
+    <sl>美国 </sl>
+    <sl>英国</sl>
+  </t>
+  <t class="t1">
+    <tigan>7×8=？</tigan>
+    <sl>42</sl>
+    <sl isok="1">56</sl>
+    <sl>33</sl>
+    <sl>35</sl>
+  </t>
+  <t class="t1">
+    <tigan>中国处于那个洲</tigan>
+    <sl>非洲</sl>
+    <sl isok="1">亚洲</sl>
+    <sl>欧洲</sl>
+    <sl>北美洲</sl>
+    <sl>南美洲</sl>
+    <sl>大洋洲</sl>
+    <sl>南极洲</sl>
+  </t>
+</list>
+<list class="t2" title="不定（多）项选择题" danfen="2" shuoming="本大题共5个小题，每小题2分，共10分。每小题至少有两个正确答案，请将正确答案前的字母填入答题卡中。多选、少选、错选均不得分">
+  <t class="t2">
+    <tigan>下面那些算式的计算结果是10。</tigan>
+    <sl isok="1">6+4</sl>
+    <sl isok="1">5×2</sl>
+    <sl isok="1">18-8</sl>
+    <sl>9+4</sl>
+    <sl isok="1">20÷2</sl>
+  </t>
+  <t class="t2">
+    <tigan>中国四川有哪些城市</tigan>
+    <sl isok="1">成都</sl>
+    <sl isok="1">乐山</sl>
+    <sl>重庆</sl>
+    <sl isok="1">绵阳</sl>
+    <sl>汉中</sl>
+  </t>
+  <t class="t2">
+    <tigan>美国本土紧邻那些洋</tigan>
+    <sl isok="1">太平洋</sl>
+    <sl isok="1">大西洋</sl>
+    <sl isok="1">北冰洋</sl>
+    <sl>印度洋</sl>
+  </t>
+  <t class="t2">
+    <tigan>中国著名的河流有</tigan>
+    <sl isok="1">长江</sl>
+    <sl isok="1">黄河</sl>
+    <sl isok="1">珠江</sl>
+    <sl isok="1">澜沧江</sl>
+    <sl isok="1">黑龙江</sl>
+    <sl isok="1">淮河</sl>
+  </t>
+  <t class="t2">
+    <tigan>中国现在的直辖市有</tigan>
+    <sl isok="1">北京</sl>
+    <sl isok="1">天津</sl>
+    <sl isok="1">重庆</sl>
+    <sl isok="1">上海</sl>
+    <sl>大连</sl>
+  </t>
+</list>
+<list class="t3"  title="判断题" danfen="5" shuoming="本大题共2个小题，每小题5分，共10分。请判断正误，并将正确答案填入答题卡中，正确选“√”，错误选“×”">
+   <t class="t3">
+     <tigan>中国有很多风景名胜</tigan>
+     <sl isok="1">√</sl>
+     <sl>×</sl>
+   </t>
+   <t class="t3">
+     <tigan>俄罗斯不是一个多民族国家</tigan>
+     <sl>√</sl>
+     <sl isok="1">×</sl>
+   </t>
+</list>
+<list class="t4"  title="案例分析题" danfen="5" shuoming="本大题共4个小题，每小题5分，共20分。先阅读案例，然后选择正确的选项填入机读卡。不定项选择，多选、少选、错选均不得分">
+   <t class="t4">
+     <tigan>【案例一】小明原有10元钱，买冰淇淋花了2元，买报纸花了2元，买水果花了4元，下面表述正确的是（）。 </tigan>
+    <sl isok="1">小明现在只有2元钱了</sl>
+    <sl>小明总共花了4元</sl>
+    <sl isok="1">小明总共买了3样东西</sl>
+    <sl>小明买了3样吃的东西</sl>
+    <sl isok="1">小明买了2样吃的东西</sl>
+   </t>
+   <t class="t4">
+     <tigan>【案例一】小明原有10元钱，买冰淇淋花了2元，买报纸花了2元，买水果花了4元，下面表述不正确的是（）。 </tigan>
+    <sl isok="1">小明总共花了5元钱</sl>
+    <sl>小明总共花了6元钱买吃的</sl>
+    <sl isok="1">小明现在还剩3元钱</sl>
+    <sl isok="1">小明现在还剩4元钱</sl>
+    <sl isok="1">小明总共花了5元钱买吃的</sl>
+   </t>
+   <t class="t4">
+     <tigan> 【案例二】小强是一个5岁的乖宝宝，计算能力很强，可以百分百做对100以内的自然数加减法，下面描述那些是正确的
+</tigan>
+    <sl isok="1">小强能计算32+56</sl>
+    <sl>小强能计算95+32</sl>
+    <sl>小强能计算32-95</sl>
+    <sl isok="1">小强能计算95-32</sl>
+   </t>
+   <t class="t4">
+     <tigan>【案例二】小强是一个5岁的乖宝宝，计算能力很强，可以百分百做对100以内的自然数加减法，下面描述那些是不正确的</tigan>
+    <sl isok="1">小强能计算5×8 </sl>
+    <sl isok="1">小强能计算10÷2 </sl>
+    <sl isok="1">小强能计算88+88</sl>
+    <sl>小强能计算44+44</sl>
+   </t>
+
+</list>
+</shijuan>
