@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shijuan title="知识模拟练习题">
+<list class="t1" title="单项选择题" danfen="1" shuoming="本大题共x个小题，每小题x分，共x分。多选、错选均不得分">
+  <t class="t1">
+    <tigan></tigan>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+    <sl isok="1"></sl>
+  </t>
+</list>
+<list class="t2" title="多项选择题" danfen="1" shuoming="本大题共x个小题，每小题1分，共x分。每小题至少有两个正确答案，请将正确答案前的字母填入答题卡中。多选、少选、错选均不得分">
+  <t class="t2">
+    <tigan></tigan>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+  </t>
+</list>
+<list class="t3"  title="判断题" danfen="0.5" shuoming="本大题共x个小题，每小题x分，共x分。请判断正误，并将正确答案填入答题卡中，正确选“√”，错误选“×”）">
+   <t class="t3">
+     <tigan></tigan>
+     <sl>√</sl>
+     <sl>×</sl>
+   </t>
+</list>
+<list class="t4" title="案例分析题" danfen="5" shuoming="本大题共x个小题，每小题x分，共x分。先阅读案例，然后选择正确的选项填入机读卡。不定项选择，多选、少选、错选均不得分">
+  <t class="t4">
+    <tigan></tigan>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+    <sl></sl>
+  </t>
+</list>
+</shijuan>
+

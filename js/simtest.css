@@ -1,0 +1,21 @@
+@charset "utf-8";
+*{ margin:0; padding:0; color:#333}
+body	{ margin:0px; padding:0px; min-height:500px; font-size:12px; font-family:Tahoma,arial,verdana,Georgia;}
+.xlist{font-weight:bold;}
+.shijuan{font-weight:bold;font-size:24px;}
+.forlist{ clear:both;list-style:none;display: block; width:630px;min-height:16px;  padding:0 0 1px 1px;}
+ul,li{ list-style:none;}
+u{font-weight:bold;}
+.alist{ display: block; width:630px; min-height:16px;  padding:0 0 1px 1px; } 
+.alist li{ float:left; width:30px; min-width:30px;height:16px;  margin:1px 1px 0 0; background:#cccccc}
+.tixing{clear:both;margin:5px; padding:5px;font-weight:bold;font-size:14px; }
+#tihao{font-size:16px;color:#00f; }
+.tigan{margin:5px; padding:5px;font-size:18px; }
+.xuanxianglist{margin:5px; padding:15px; font-size:18px;line-height: 180%;}
+.dibudaohang{margin:5px; padding:5px; }
+.tijiao{margin:5px; padding:5px; }
+.daan{color:#f00;font-weight:bold;}
+.a2 {color:#0f0;}
+.a1 {color:#f00;}
+.a1 ,.a2 {margin:2px ;padding:5px;min-height:14px;min-width:30px;}
+
