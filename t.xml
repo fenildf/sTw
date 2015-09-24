@@ -14,7 +14,7 @@
     <tigan></tigan>
     <sl></sl>
     <sl></sl>
-    <sl></sl>
+    <sl isok="1"></sl>
     <sl></sl>
     <sl></sl>
   </t>
@@ -22,7 +22,7 @@
 <list class="t3"  title="判断题" danfen="0.5" shuoming="本大题共x个小题，每小题x分，共x分。请判断正误，并将正确答案填入答题卡中，正确选“√”，错误选“×”）">
    <t class="t3">
      <tigan></tigan>
-     <sl>√</sl>
+     <sl isok="1">√</sl>
      <sl>×</sl>
    </t>
 </list>
@@ -31,7 +31,7 @@
     <tigan></tigan>
     <sl></sl>
     <sl></sl>
-    <sl></sl>
+    <sl isok="1"></sl>
     <sl></sl>
     <sl></sl>
   </t>
